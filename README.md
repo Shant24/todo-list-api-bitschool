@@ -40,7 +40,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Project installation and usage
 
-    $ git clone https://github.com/MASISKAR/todo-list-api
+    $ git clone https://github.com/Shant24/todo-list-api-bitschool.git
     $ cd todo-list-api
     $ npm install
 
